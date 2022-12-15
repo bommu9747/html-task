@@ -1,0 +1,8 @@
+input{
+    /* border: red; */
+    border-radius: 10px;
+    border-color: rgb(0, 90, 78);
+}
+table{
+  background: linear-gradient(to bottom,rgb(6, 228, 209) 0%,rgb(211, 127, 200) 40%);
+}
